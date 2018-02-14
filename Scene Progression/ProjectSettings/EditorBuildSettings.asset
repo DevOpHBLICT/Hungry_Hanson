@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Start.unity
+    guid: 47881577ded586a4397d91121a77a0e1
+  - enabled: 1
+    path: Assets/First.unity
+    guid: 55e85462baf68dd4a92af5bc2d40f426
+  - enabled: 1
+    path: Assets/Market_Repair_Wings.unity
+    guid: e552575196a99914fa3617542adaa61d
+  - enabled: 1
+    path: Assets/Walk With Repaired Wings.unity
+    guid: ae1b35dbdb6d63141a89ce79926f2575
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Vegetable_Field.unity
+    guid: 99c2cccab0eb5b940bd541003b7c2313
+  - enabled: 1
+    path: Assets/Cave.unity
+    guid: bd029fac6dbcefc4bbfe17a05bac4953
+  - enabled: 1
+    path: Assets/Snowy Mountains.unity
+    guid: 55a866a038081ee4688fd8ff99a81158
+  - enabled: 1
+    path: Assets/Climb_Mountain.unity
+    guid: 37430dc3c4154884597b5bfad9b2155a
+  - enabled: 1
+    path: Assets/Climb_Mountain_2.unity
+    guid: f7d2d40550f4f4f4295b84798a7761c0
+  - enabled: 1
+    path: Assets/Desert.unity
+    guid: 2a459abd16d4d6e428fd8cc4c0100eaa
+  - enabled: 1
+    path: Assets/Bridge.unity
+    guid: 24805a8eb7c75394a9b1be29b8acb121
+  - enabled: 1
+    path: Assets/Waterfall.unity
+    guid: 7ffc875f06d5fc34da85093ae9b6a18f
+  - enabled: 1
+    path: Assets/Sleep.unity
+    guid: 8969bf2e53db4234c81cfe40815b2ea8
+  - enabled: 1
+    path: Assets/Mole.unity
+    guid: 5ce87dfd07321c545ae8c070f5fd00f0
+  - enabled: 1
+    path: Assets/Home.unity
+    guid: 446e22023d7776a41bb1c003171df132
